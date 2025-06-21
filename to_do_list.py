@@ -75,7 +75,7 @@ def menu():
         elif choice == "4":
             delete_task()
         elif choice == "5":
-            print("Goodbye 👋")
+            print("you are a sexy boiiii 👋")
             break
         else:
             print("Invalid choice. Please try again.")
